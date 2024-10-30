@@ -1,0 +1,15 @@
+2023/03/15-18:52:04.824 570 Reusing MANIFEST C:/Users/natek/Desktop/Dune_TheGame/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/15-18:52:04.825 570 Recovering log #4
+2023/03/15-18:52:04.825 570 Reusing old log C:/Users/natek/Desktop/Dune_TheGame/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000004.log 
+2023/03/15-18:53:38.519 2648 Level-0 table #8: started
+2023/03/15-18:53:38.522 2648 Level-0 table #8: 8400 bytes OK
+2023/03/15-18:53:38.525 2648 Delete type=0 #4
+2023/03/15-18:53:38.527 2648 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/03/15-18:53:38.527 2648 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00`\xfb\x93BixB\x00\x03\x00\x00\x00\x00\x00\x00\x08@' @ 200 : 1
+2023/03/15-18:53:38.527 2648 Compacting 1@1 + 1@2 files
+2023/03/15-18:53:38.538 2648 Generated table #9@1: 41 keys, 2489 bytes
+2023/03/15-18:53:38.538 2648 Compacted 1@1 + 1@2 files => 2489 bytes
+2023/03/15-18:53:38.540 2648 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/15-18:53:38.541 2648 Delete type=2 #5
+2023/03/15-18:53:38.541 2648 Delete type=2 #8
+2023/03/15-18:53:38.544 2648 Manual compaction at level-1 from '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00`\xfb\x93BixB\x00\x03\x00\x00\x00\x00\x00\x00\x08@' @ 200 : 1 .. (end); will stop at (end)
